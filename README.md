@@ -5,8 +5,8 @@
 👯 I’m looking to collaborate on Open-source DevOps tools that enhance automation and deployment. Infrastructure as Code (IaC) projects to promote reproducible and scalable environments.  Cloud-native applications that leverage the full potential of platforms like AWS, Azure, or GCP. 
 🤔 I’m looking for help with Optimizing CI/CD workflows for large-scale applications.  Integrating security checks into automated pipelines (DevSecOps).  Cost-effective cloud solutions for startups and small businesses. </p>
 <p1>📫 How to reach me</p1>
-<p2>📧 Email: kiran@example.com</p2>
-<p3>💼 LinkedIn: linkedin.com/in/kiran6418</p3>
+<p2>📧 Email: kiranbabukolusu@gmail.com</p2>
+<p3>💼 LinkedIn: https://www.linkedin.com/in/kiran-babu-kolusu-253aab264</p3>
 
 
 <h2>🚀 Languages and Tools I Use</h2>
