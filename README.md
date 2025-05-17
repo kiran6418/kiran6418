@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Kiran Babu Kolusu</h1>
-<p>🚀 About Me I'm Kiran Babu Kolusu, a dedicated DevOps Engineer with over 3 years of cloud experience, specializing in building and managing scalable, secure, and efficient infrastructures on AWS DevOps. 
+<p>🚀 About Me I'm Kiran Babu Kolusu, a dedicated DevOps Engineer with 3 years of cloud experience, specializing in building and managing scalable, secure, and efficient infrastructures on AWS DevOps. 
 🔭 I’m currently working on Implementing CI/CD pipelines using GitHub Actions and Jenkins to streamline deployment processes.  Managing cloud infrastructure with Terraform and Ansible for scalable and reliable environments. Monitoring and logging solutions with Prometheus and Grafana to ensure system health and performance. 
 🌱 I’m currently learning Advanced Kubernetes orchestration for efficient container management. Security best practices in DevOps to ensure compliance and protect applications. Serverless architectures and their integration into existing infrastructures. 
 👯 I’m looking to collaborate on Open-source DevOps tools that enhance automation and deployment. Infrastructure as Code (IaC) projects to promote reproducible and scalable environments.  Cloud-native applications that leverage the full potential of platforms like AWS, Azure, or GCP. 
